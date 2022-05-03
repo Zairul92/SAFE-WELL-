@@ -1,2 +1,2 @@
 # SAFE-WELL-
-Rentak Product App
+Rental Product App
